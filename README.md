@@ -1,7 +1,7 @@
 - 👋 Olá, sou o Frozen
 - 👀 zoinho
-- 🌱 [Fusion](https://dsc.gg/fusionbot)
-<b> oi</b>
+- 🌱 <b>[Fusion](https://dsc.gg/fusionbot)</b>
+
 <!---
 FrozenFireBR/FrozenFireBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
