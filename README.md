@@ -2,7 +2,7 @@
 - 👀 zoinho
 - 🌱 <b>[Fusion](https://dsc.gg/fusionbot)</b>
 
-![Discord](https://discord.c99.nl/widget/theme-1/753252894974804068.png)
+![Discord](https://discord.c99.nl/widget/theme-3/753252894974804068.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrozenFireBR&show_icons=true&theme=dark)
 
