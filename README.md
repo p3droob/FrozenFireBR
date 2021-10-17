@@ -5,7 +5,7 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/753252894974804068.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrozenFireBR&show_icons=true&theme=dark)
-
+![GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenFireBR&layout=compact&langs_count=12&theme=dark)
 # My Technologies and Tools
 
 
