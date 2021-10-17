@@ -2,12 +2,9 @@
 - 👀 zoinho
 - 🌱 <b>[Fusion](https://dsc.gg/fusionbot)</b>
 
-<!---
-FrozenFireBR/FrozenFireBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Discord](https://discord.c99.nl/widget/theme-1/753252894974804068.png)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrozenFireBR&show_icons=true&theme=dark)
 
 # My Technologies and Tools
 
