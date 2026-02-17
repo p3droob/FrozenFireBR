@@ -12,10 +12,10 @@
 # ❄️Snowbase
 <p align="center">
   <img src="https://camo.githubusercontent.com/f7e5b4c86b4bdd13013661f5c583119240b93da0c3dfcca55dbef71a0b8b9114/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667"
-       width="30%">
+       width="15%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/npm/dy/snowbase" height="28">
-  <img src="https://img.shields.io/npm/v/snowbase" height="28">
+  <img src="https://img.shields.io/npm/dy/snowbase" height="30">
+  <img src="https://img.shields.io/npm/v/snowbase" height="30">
 </p>
